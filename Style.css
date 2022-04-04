@@ -1,0 +1,29 @@
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 300px;
+}
+
+.submarinePic{
+    width: 350px;
+    height: auto;
+}
+
+.sharkPic {
+    width: 350px;
+    height: auto;
+}
+
+
+p{
+    font-family: Geneva; 
+    font-size: 30px;
+}
+
+
+#blankThree{
+    font-family: Geneva;
+    font-size: 60px;
+    color: red;
+}
